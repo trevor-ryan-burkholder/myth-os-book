@@ -1,0 +1,23 @@
+# Detection
+
+The process of perceiving what is already present in [[the-space]] without [[construction|constructing]] or adding to it.
+
+Detection is receiving, not generating. The distinction is felt: detected material arrives on its own, often vague and stubborn. Constructed material arrives with a quality of having been produced. If what appears feels invented, reduce effort and wait.
+
+You are using attention as a channel for perception, not a tool for production. The difference is felt immediately. Constructed experience has a quality of deliberateness to it, a sense that you are producing what appears. Perceived experience arrives on its own, often vaguely, often partially, with a quality that feels more like noticing than making.
+
+What detection looks for is basic: properties of [[the-space]]. Open or enclosed. Light, darkness, or something in between. A tone or quality that feels distinct. Anything that feels present, even vaguely. Alongside whatever appears visually, the body registers the same territory through the [[somatic-channel]]. The two channels read the same thing through different routes.
+
+The most common failure is [[construction]]: forcing imagery, trying to build a scene, filling in details that are not arriving on their own. The correction is the same as the correction for every form of [[failure-modes|misuse]]: reduce effort and observe what remains without trying to improve it.
+
+## Related
+
+- [[construction]]
+- [[the-space]]
+- [[somatic-channel]]
+- [[presence]]
+- [[resonance]]
+
+## Where in the book
+
+Chapter 4 (The Internal Environment) is the first session. Chapter 5 (What's In There and How to Be Near It) extends detection to presences within the space.

@@ -1,0 +1,48 @@
+title: Myth-OS
+tagline: A system for interacting with the mind.
+description: >-
+  A reference for the system described in the Myth-OS manuscript. Wiki, chapters,
+  appendices, and companion articles.
+author: Trevor Burke
+
+# Set this to your GitHub Pages URL once published.
+url: ""
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  hard_wrap: false
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Don't process these
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - README.md
+  - .gitignore
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+
+# Section labels used in the navigation
+sections:
+  - { key: wiki,        label: "Wiki",        href: "/wiki/" }
+  - { key: chapters,    label: "Chapters",    href: "/chapters/" }
+  - { key: articles,    label: "Articles",    href: "/articles/" }
+  - { key: appendices,  label: "Appendices",  href: "/appendices/" }
+  - { key: back-matter, label: "Glossary",    href: "/back-matter/glossary/" }
