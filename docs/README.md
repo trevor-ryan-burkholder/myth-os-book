@@ -5,7 +5,7 @@ GitHub Pages site for the Myth-OS wiki, manuscript chapters, appendices, and com
 ## Layout
 
 ```
-site/
+docs/
 ├── _config.yml           Site config, navigation sections
 ├── Gemfile               Ruby deps (github-pages bundle)
 ├── _layouts/             default.html, page.html
@@ -27,7 +27,7 @@ All Markdown pages are generated from the source files under `Myth-OS_Book/wiki/
 Install Ruby (any version ≥ 2.7), then:
 
 ```bash
-cd site
+cd docs
 bundle install
 bundle exec jekyll serve
 ```
@@ -36,13 +36,20 @@ The site will be available at `http://127.0.0.1:4000/`.
 
 ## Deploying to GitHub Pages
 
-1. Commit the `site/` folder to your repo.
+1. Commit the `docs/` folder to your repo.
 2. In your repository on GitHub, go to **Settings → Pages**.
 3. Under **Build and deployment**, choose **Source: Deploy from a branch**.
-4. Select your branch and set the folder to `/site` (or move the contents of `site/` to `/docs` if you prefer GitHub Pages' default folder).
+4. Select your branch and set the folder to `/docs`.
 5. Save. The first build runs automatically.
 
-If you want to deploy from a path other than `/docs` or root, set up the [official GitHub Pages Action](https://github.com/actions/jekyll-build-pages) and point it at `site/`.
+The site URL is configured in `_config.yml`:
+
+```yaml
+url: "https://trevor-ryan-burkholder.github.io"
+baseurl: "/myth-os-wiki"
+```
+
+If you rename the repo or move it under a different account, update those two fields.
 
 ## Regenerating content
 

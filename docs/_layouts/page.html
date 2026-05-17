@@ -13,6 +13,13 @@ layout: default
   </header>
 
   <div class="prose">
-    {{ content }}
+    {%- comment -%}
+      Rewrite root-relative links written as `href="/..."` so they include
+      site.baseurl. This lets the source Markdown keep clean absolute paths
+      while still working when the site is served from a subpath like
+      `username.github.io/myth-os-wiki/`.
+    {%- endcomment -%}
+    {%- capture href_replacement -%}href="{{ site.baseurl }}/{%- endcapture -%}
+    {{ content | replace: 'href="/', href_replacement }}
   </div>
 </article>

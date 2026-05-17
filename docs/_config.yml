@@ -29,6 +29,10 @@ exclude:
   - node_modules
   - README.md
   - .gitignore
+  # transient files left over from earlier conversion runs; safe to delete
+  - _staged
+  - wiki2
+  - test.txt
 
 # Default front matter
 defaults:

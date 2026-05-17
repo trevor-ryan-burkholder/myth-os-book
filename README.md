@@ -25,7 +25,7 @@ Myth-OS is not self-help, therapy, motivation, or philosophy. It describes how t
 │   ├── submission/      Query letter, agent list, submission plan
 │   ├── _reference/      Core kernel, outline, writer instructions
 │   └── CLAUDE.md        Project guidance
-└── site/                Jekyll site rendering the above
+└── docs/                Jekyll site rendering the above (GitHub Pages source)
 ```
 
 ## Reading the source
@@ -41,9 +41,9 @@ Start points:
 
 ## Web site
 
-The `site/` folder is a Jekyll site that renders the entire body of material with cross-links resolved. See [site/README.md](site/README.md) for local build steps and GitHub Pages deployment.
+The `docs/` folder is a Jekyll site that renders the entire body of material with cross-links resolved. See [docs/README.md](docs/README.md) for local build steps and GitHub Pages deployment.
 
-To publish via GitHub Pages: in **Settings → Pages**, set the source to your branch and the folder to `/site`.
+To publish via GitHub Pages: in **Settings → Pages**, set the source to your branch and the folder to `/docs`.
 
 ## Working on the text
 
