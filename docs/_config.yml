@@ -6,7 +6,7 @@ description: >-
 author: Trevor Burkholder
 # Set this to your GitHub Pages URL once published.
 url: 'https://trevor-ryan-burkholder.github.io'
-baseurl: '/myth-os-wiki'
+baseurl: '/myth-os-book'
 
 # Build settings
 markdown: kramdown

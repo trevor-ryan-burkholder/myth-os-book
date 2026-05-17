@@ -46,7 +46,7 @@ The site URL is configured in `_config.yml`:
 
 ```yaml
 url: "https://trevor-ryan-burkholder.github.io"
-baseurl: "/myth-os-wiki"
+baseurl: "/myth-os-book"
 ```
 
 If you rename the repo or move it under a different account, update those two fields.
@@ -73,5 +73,5 @@ The `_config.yml` `url` and `baseurl` fields are blank by default. Set them once
 
 ```yaml
 url: "https://yourname.github.io"
-baseurl: "/myth-os"
+baseurl: "/myth-os-book"
 ```
