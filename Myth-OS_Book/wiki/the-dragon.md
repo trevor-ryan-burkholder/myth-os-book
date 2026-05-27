@@ -1,12 +1,12 @@
 # The Dragon
 
-Not a [[presence]] but a state. The state that occurs when the primary presences in the system are operating in alignment rather than in conflict.
+Not a [[presence]]. A state. What occurs when the primary presences in the system operate in alignment rather than in conflict.
 
-The Dragon is temporary and cannot be produced directly. It appears when conditions allow it.
+Temporary. Not produced directly. It arrives when conditions allow it.
 
-The term is specific to the author's own system, used in Chapter 15 as illustration. It is not a category meant to be imported into other practitioners' systems. Other people's systems will not contain the Dragon. They will contain whatever emergent state arises when their own presences operate in alignment, which will look different.
+The term is specific to my own system, used in Chapter 15 as illustration. Not a category to import. Other systems will not contain the Dragon. They will contain whatever emergent state arises when their own presences come into alignment, which will look different.
 
-The point of naming it in the manuscript is to demonstrate that a developed system can include states that are distinct from any individual presence, states that depend on relationships between presences rather than on the presences themselves. These emergent states are observed, not constructed. They arrive when conditions allow them.
+The reason to name it in the manuscript is to show that a developed system includes states distinct from any individual presence. States that depend on relationships between presences rather than on the presences themselves. These emergent states are observed, not constructed. They show up when conditions allow them.
 
 ## Related
 

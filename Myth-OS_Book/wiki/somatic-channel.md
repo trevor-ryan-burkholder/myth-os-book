@@ -1,16 +1,16 @@
 # Somatic channel
 
-The body's parallel feedback system during internal work, running alongside and often preceding visual or spatial perception of [[the-space]].
+The body's parallel feedback system during internal work. Runs alongside and often ahead of visual or spatial perception of [[the-space]].
 
-The somatic channel registers [[approach]], [[contact]], escalating pressure, and successful [[influence]] before cognitive processing catches up. It is co-equal with, not secondary to, the visual channel. Learning to read somatic signals gives more lead time for exit decisions and more reliable assessment of contact quality.
+The somatic channel registers [[approach]], [[contact]], escalating pressure, and successful [[influence]] before cognition catches up. Co-equal with the visual channel, not secondary. Reading somatic signals gives more lead time for exit decisions and a more reliable assessment of contact quality.
 
-Some people find the somatic channel more immediately available than imagery. Others find it secondary. Both are valid access routes and both carry real information. Use whichever arrives more clearly.
+Some people find the somatic channel more available than imagery. Others find it secondary. Both are valid access routes. Use whichever arrives more clearly.
 
-The body responds to leaning before the mind notices the lean. If you are moving toward a [[presence]] with [[defenses|demand]], you will often feel it physically before you notice it cognitively: a forward quality in the chest, a pulling sensation, a change in breathing that precedes the impulse to move closer. Catching it somatically gives you more room to hold the approach correctly.
+The body responds to leaning before the mind notices the lean. Moving toward a [[presence]] with [[defenses|demand]] often registers physically first: a forward quality in the chest, a pulling sensation, a change in breathing that precedes the impulse to close in. Catching it somatically gives more room to hold the approach correctly.
 
-The somatic version of [[notice-step-back-adjust|stepping back]] in real-time use is a slight internal settling, a quality of the body becoming less fused with the signal's momentum. It can be as small as a single exhale slightly longer than the previous one, or a momentary attending to physical ground.
+The somatic version of [[notice-step-back-adjust|stepping back]] is a slight internal settling. The body becoming less fused with the signal's momentum. It is sometimes as small as a single exhale slightly longer than the previous one, or a brief attending to physical ground.
 
-In [[working-with-a-fragmented-system|fragmented systems]], somatic grounding moves are cross-state transferable: the body responds to them before the part present has cognitive access to the practice. This makes them the only available real-time move when a less-practiced part is active.
+In [[working-with-a-fragmented-system|fragmented systems]], somatic grounding moves are cross-state transferable. The body responds to them before the part present has cognitive access to the practice. When a less-practiced part is active, this is the only real-time move available.
 
 ## Related
 
@@ -21,4 +21,4 @@ In [[working-with-a-fragmented-system|fragmented systems]], somatic grounding mo
 
 ## Where in the book
 
-The somatic channel runs through every chapter from 4 onward. It is treated as a co-equal channel of perception throughout. Appendix D (The Evidence Base) cites van der Kolk and Levine as the underlying research.
+The somatic channel runs through every chapter from 4 onward, treated as co-equal perception throughout. Appendix D cites van der Kolk and Levine as the underlying research.

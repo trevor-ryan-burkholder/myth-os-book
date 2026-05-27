@@ -1,18 +1,16 @@
 # Notice → Step Back → Adjust
 
-The shorthand loop for real-time use of the system outside of [[session|sessions]].
+The real-time loop. Three moves, run once, outside of [[session|sessions]]. You are referencing the system, not running it.
 
-Three moves, compressed, applied once. The system is being referenced, not run.
+**Notice.** A familiar signal is active. Not analysis, not naming which [[presence]] it points to. Only: *this is that signal*. [[familiarity]] is the marker, same tone, same speed, same shape as before. The [[somatic-channel]] usually fires first. A body-level notice arrives seconds ahead of the cognitive one.
 
-**Notice.** Recognize that a familiar signal has activated. Not analyzing it, not identifying which [[presence]] it points to, not running any part of the system in detail. Only the recognition: *this is that signal.* The [[familiarity]] is the marker, the same tone, the same speed, the same quality of response encountered before. That recognition is enough to work with. The [[somatic-channel]] is often faster than the cognitive one. A somatic notice can arrive seconds before the cognitive one.
+**Step back.** A small internal [[distance]] from the signal. Not disengagement, not suppression. The same distance move from [[the-space]], compressed. The signal is still running. You are still in the room. Your position relative to the signal shifted by a small amount. That changes how much of it is running you.
 
-**Step back.** Create a slight internal [[distance]] from the signal. Not disengaging from the situation, not suppressing the response, not trying to make it stop. A small internal movement, the same distance adjustment practiced in [[the-space]], applied in compressed form. The signal is still active. You are still in the situation. You have shifted your position relative to the signal by a small amount, which changes how much of it is running you at full strength.
+**Adjust.** Check whether the shift did anything. Not looking for the reaction to disappear. Looking for intensity slightly lower, slightly more room to move, marginally more workable than two seconds ago. If yes, that is the result. If no, nothing was lost.
 
-**Adjust.** Notice whether that shift changed anything. Not looking for a dramatic change. Not expecting the reaction to disappear. Observing whether intensity is slightly lower, whether there is slightly more room to move, whether the situation feels marginally more manageable than it did two seconds ago. If it does, that is the result. If it does not, the situation continues regardless, and you have lost nothing by trying.
+The standard is partial improvement. Seventy percent force produces different outcomes than full force. The goal is not to stop reacting. It is to open a small gap between signal and expression.
 
-The standard for real-time use is partial improvement, not elimination. A reaction at seventy percent force produces different results than one at full force, even if both are still reactions. The goal is not to stop reacting. It is to introduce a small amount of space between the signal and its full expression.
-
-In a [[working-with-a-fragmented-system|fragmented system]], the notice step adds a second question to *this is that signal*: *which part am I right now, and does this part have access to the practice?* When the answer is that the current part has no access, the somatic step alone is what remains available, the exhale, the physical contact with ground.
+In a [[working-with-a-fragmented-system|fragmented system]], the notice step carries a second question: *which part am I right now, and does this part have the practice?* When the answer is no, the somatic step is what remains. One longer exhale. Contact with ground.
 
 ## Related
 
@@ -24,4 +22,4 @@ In a [[working-with-a-fragmented-system|fragmented system]], the notice step add
 
 ## Where in the book
 
-Chapter 12 (Using It in Real Time) introduces and develops the loop.
+Chapter 12 (Using It in Real Time).

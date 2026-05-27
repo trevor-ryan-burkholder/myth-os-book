@@ -6,15 +6,15 @@ section_label: "Wiki"
 permalink: /wiki/shadow/
 ---
 
-A term from Jungian psychology. The aspects of the self that have been rejected, denied, or never developed, material that does not fit the conscious self-image and has been pushed into the unconscious.
+Jungian term. The aspects of the self that have been rejected, denied, or never developed. Material that does not fit the conscious self-image and has been pushed into the unconscious.
 
-The Shadow is not simply negative material. It contains everything that has not been integrated, including capacities and qualities that were suppressed rather than absent.
+The Shadow is not only negative material. It holds everything unintegrated, including capacities and qualities suppressed rather than absent.
 
-The Shadow tends to be projected. What you cannot acknowledge in yourself, you tend to see in others, often with disproportionate emotional charge. The person who cannot acknowledge their own anger experiences other people as unusually aggressive. The person who has suppressed their own ambition resents or is fascinated by ambitious people. The intensity of the projection points toward what is unintegrated in the self.
+Shadow tends to project. What you cannot acknowledge in yourself, you tend to see in others, often with disproportionate charge. The person who cannot acknowledge their own anger experiences others as unusually aggressive. The person who has suppressed their own ambition resents or is fascinated by ambitious people. The intensity of the projection points back at what is unintegrated.
 
-In the [Resonance](/wiki/resonance/) response categories, Shadow material typically produces the third kind of response: fascination alongside discomfort, attraction and resistance simultaneously. The symbol is compelling and uncomfortable because it connects to material the system is actively defended against. That combination, the pull and the push together, is the somatic signature of Shadow contact.
+In the [Resonance](/wiki/resonance/) categories, Shadow material produces the third kind: fascination alongside discomfort. Attraction and resistance at once. The symbol is compelling and uncomfortable because it connects to material the system is actively defended against. Pull and push together is the somatic signature of Shadow contact.
 
-In [The space](/wiki/the-space/), Shadow material tends to appear as [presences](/wiki/presence/) that produce strong avoidance responses, things that feel threatening, repellent, or that generate the impulse to exit immediately. The [Approach](/wiki/approach/) principles still apply but with additional care. The defensive response around Shadow material is typically stronger than around other presences, which means the [Stable range](/wiki/stable-range/) is narrower and the timeline for approach is longer.
+In [The space](/wiki/the-space/), Shadow material appears as [presences](/wiki/presence/) that generate strong avoidance. Things that feel threatening, repellent, or that produce the impulse to exit. The [Approach](/wiki/approach/) principles apply, with more care. The defensive response around Shadow is stronger than around other presences. The [Stable range](/wiki/stable-range/) is narrower. The timeline is longer.
 
 ## Related
 

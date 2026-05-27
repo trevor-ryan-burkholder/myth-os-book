@@ -1,14 +1,14 @@
 # Acknowledgment
 
-The only permitted form of direct input during contact with a [[presence]]. A single internal statement, *I know you're there*, said once and not followed up.
+The only permitted form of direct input during [[contact]] with a [[presence]]. One internal statement, *I know you're there*, said once and not followed up.
 
-An acknowledgment carries no demand for a response. It is a statement of awareness, not the opening of a dialogue. Anything beyond a single acknowledgment introduces pressure. A question creates an expectation of an answer. Repetition creates an expectation of escalating engagement. Both register as load. Load reduces [[access]].
+An acknowledgment carries no demand. It states awareness. It does not open a dialogue. Anything beyond a single acknowledgment introduces pressure. A question creates expectation of an answer. Repetition creates expectation of escalation. Both register as load. Load reduces [[access]].
 
-The acknowledgment has to be complete in itself. You say it, internally, quietly, without performance, and then you stop. Not waiting for a response. Not monitoring whether something changed. Stopping, the way you would stop after placing something down rather than after asking a question. The fullness of the stop is what keeps the system open.
+You say it, internally, quietly, without performance. Then you stop. Not waiting. Not monitoring. Stop the way you stop after setting something down, not the way you stop after asking a question. The fullness of the stop is what keeps the system open.
 
-Silence after an acknowledgment is not absence. If the [[presence]] remains where it was, if clarity holds, if nothing escalates, that is contact. The interaction is complete. The expectation that something should happen is itself pressure, and it produces the instability it is looking for if held long enough.
+Silence after acknowledgment is not absence. If the [[presence]] remains, if clarity holds, if nothing escalates, that is contact. The interaction is complete. The expectation that something should happen is itself pressure, and it produces instability if held long enough.
 
-In a [[working-with-a-fragmented-system|fragmented system]], even acknowledgment can read as pressure with a strongly defended [[protector]]. The first several sessions near such a presence may involve no acknowledgment at all, only being present in [[the-space]] while the protector is also there.
+In a [[working-with-a-fragmented-system|fragmented system]], even acknowledgment can read as pressure near a defended [[protector]]. The first sessions near such a presence may involve no acknowledgment at all, only being present in [[the-space]] while the protector is also there.
 
 ## Related
 
@@ -19,4 +19,4 @@ In a [[working-with-a-fragmented-system|fragmented system]], even acknowledgment
 
 ## Where in the book
 
-Chapter 5 (What's In There and How to Be Near It) introduces acknowledgment. Chapter 6 (Reading the System and Making Contact) develops it. Chapter 9 (Working With Protector Systems) describes when even acknowledgment is too much input.
+Chapter 5 introduces acknowledgment. Chapter 6 develops it. Chapter 9 describes when even acknowledgment is too much input.

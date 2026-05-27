@@ -1,19 +1,19 @@
 # Protector
 
-A term from Internal Family Systems (IFS) therapy. A part whose function is to prevent [[exile|exiles]] from being triggered and their pain from surfacing.
+IFS term. A part whose job is to keep [[exile|exiles]] from being triggered and their pain from surfacing.
 
-IFS identifies two types:
+Two types:
 
-- **Managers** are proactive. They work in advance to keep situations controlled, to prevent exiles from being triggered, and to maintain the functional appearance of stability.
-- **Firefighters** are reactive. They activate after an exile has already been triggered. Their job is to suppress the pain as quickly as possible, often through behaviors that create problems of their own: substance use, dissociation, rage, compulsive action.
+- **Managers** work in advance. They keep situations controlled and exiles offline. They produce the functional appearance of stability.
+- **Firefighters** work after the fact. An exile gets triggered and they shut the pain down fast, often through substance use, dissociation, rage, or compulsive action.
 
-In Myth-OS, protector presences are those that produce closure, withdrawal, or destabilization when their defended territory is approached. They map to the same underlying structure IFS describes, named with the Myth-OS vocabulary of [[presence|presences]] and [[the-space|the space]].
+In Myth-OS, protectors are the presences that produce closure, withdrawal, or destabilization when their territory is approached. Same structure IFS describes. Different vocabulary: [[presence|presences]] in [[the-space]].
 
-In a [[working-with-a-fragmented-system|fragmented system]], protectors are often the architecture of the fragmentation itself, load-bearing walls rather than doors. The separation between parts, the structural walls that keep certain material inaccessible to other parts, is itself a protective function. You do not build a relationship with a load-bearing wall by pushing on it. You build it by demonstrating, over a long time, that you are not a structural threat.
+In a [[working-with-a-fragmented-system|fragmented system]], protectors are often the architecture of the fragmentation itself. Load-bearing walls, not doors. The separation between parts is the protective function. You do not build a relationship with a load-bearing wall by pushing on it. You build it by demonstrating, over a long time, that you are not a structural threat.
 
-The Myth-OS approach to protectors is the same as the approach to any [[presence]]: observe without forcing, [[acknowledgment|acknowledge]] without demanding, hold position without leaning. What changes in a fragmented system is the scale of patience required and the additional [[distance]] needed. Approach starts further back than feels necessary. The first several sessions near a strongly defended protector may involve no [[acknowledgment]] at all, only being present in [[the-space]] while the protector is also there.
+The approach is the same as for any presence. Observe without forcing. [[acknowledgment|Acknowledge]] without demanding. Hold position without leaning. What changes in a fragmented system is the scale of patience and the additional [[distance]] required. Start further back than seems needed. The first sessions near a heavily defended protector may involve no [[acknowledgment]] at all. Only being present in [[the-space]] while the protector is there.
 
-Somatically, protectors often register as tightening, blocking sensations, or a quality of forward pressure that precedes avoidance.
+Somatically, protectors register as tightening, blocking, or a forward pressure that precedes avoidance.
 
 ## Related
 
@@ -25,4 +25,4 @@ Somatically, protectors often register as tightening, blocking sensations, or a 
 
 ## Where in the book
 
-Appendix A (IFS and Parts Work) introduces managers and firefighters. Chapter 9 (Working With Protector Systems) develops protector work in the context of a fragmented system.
+Appendix A (IFS and Parts Work) introduces managers and firefighters. Chapter 9 (Working With Protector Systems) develops the work in a fragmented context.

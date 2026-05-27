@@ -6,17 +6,17 @@ section_label: "Wiki"
 permalink: /wiki/resonance-vector/
 ---
 
-A specific symbol, image, character, piece of music, or memory that produces a genuine [Resonance](/wiki/resonance/) response, pointing toward internal material that cannot be reached directly.
+A specific symbol, image, character, piece of music, or memory that produces a genuine [Resonance](/wiki/resonance/) response. The entry point toward material direct attention does not reach.
 
-Resonance vectors are the entry points the practice uses to begin working with the internal space. They are not fixed. As the practice develops, vectors shift in quality and new ones emerge. Three genuine resonance vectors are more useful than five selected ones.
+Vectors are not fixed. As the practice develops, they shift in quality and new ones emerge. Three real vectors outperform five selected ones.
 
-The first exercise of the practice is identifying three to five things that produce a clear resonance response, characters from fiction or mythology, pieces of music, images, memories, anything that produces an immediate response rather than a considered preference. The speed test applies: if you have to think about whether it belongs on the list, it does not belong on the list.
+The first exercise of the practice is identifying three to five things that produce a clear resonance response. Characters from fiction or mythology, music, images, memories. Anything that produces an immediate response rather than a considered preference. The speed test: if you have to think about whether it belongs on the list, it does not.
 
-Resonance vectors are not transferable. A symbol that hits for one person does not hit for another in the same way. The vector works because of alignment between the symbol and the specific internal structure it is connecting to. Importing someone else's vectors produces [Construction](/wiki/construction/) rather than [Detection](/wiki/detection/). The symbol becomes a label rather than an access route.
+Vectors are not transferable. A symbol that hits for one person does not hit for another the same way. The vector works because of alignment between the symbol and the specific internal structure it connects to. Importing someone else's vectors produces [Construction](/wiki/construction/), not [Detection](/wiki/detection/). The symbol becomes a label rather than an access route.
 
-Across [years of practice](/wiki/symbolic-evolution/), resonance vectors shift. Symbols that produced strong responses early in the practice may produce quieter responses later. New symbols that previously registered as mild interest may begin producing genuine resonance. The system is pointing toward different territory because different territory has become relevant.
+Across [years of practice](/wiki/symbolic-evolution/), vectors shift. Symbols that produced strong responses early may quiet later. Symbols that read as mild interest may begin producing real resonance. The system is pointing toward different territory because different territory has become relevant.
 
-In [fragmented systems](/wiki/working-with-a-fragmented-system/), resonance vectors function as cross-state anchors. A vector that produces a strong response tends to produce that response across states, even when those states have no shared memory of having used it. The resonance operates at a level the dissociative system does not fully separate.
+In [fragmented systems](/wiki/working-with-a-fragmented-system/), vectors function as cross-state anchors. A vector that hits in one state tends to hit across states, even when those states share no memory of having used it. Resonance operates at a level the dissociative system does not fully separate.
 
 ## Related
 
@@ -27,4 +27,4 @@ In [fragmented systems](/wiki/working-with-a-fragmented-system/), resonance vect
 
 ## Where in the book
 
-Chapter 3 (How the Mind Actually Responds) introduces resonance vectors and provides the first practical exercise. Chapter 15 (Copying Versus Discovering) explains why vectors cannot be imported. Chapter 19 (Symbolic Evolution) covers how vectors shift over time. Appendix B (Jung) provides the underlying theory.
+Chapter 3 introduces vectors and the first exercise. Chapter 15 explains why they cannot be imported. Chapter 19 covers how they shift. Appendix B gives the underlying theory.

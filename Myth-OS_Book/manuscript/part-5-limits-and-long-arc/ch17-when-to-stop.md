@@ -1,67 +1,79 @@
-# PART 5 — LIMITS, CHANGE, AND THE LONG ARC
+# PART 5 — LIMITS AND LONG ARC
 
 # Chapter 17 — When to Stop
 
-This system is designed to be used independently. That design is intentional: the stability-first approach, the conservative constraints, the emphasis on minimal input and early exits, all calibrated for self-directed practice without clinical oversight. For most people, in most situations, it is safe to use that way.
+This system is built to be used alone. Stability first. Minimal input. Early exits. For most people, in most conditions, that is safe.
 
-There are conditions under which it is not. Those conditions are worth naming directly, not as a disclaimer but as functional information. The system works within a stable range. When the baseline is destabilized beyond a certain point, the stable range shrinks to the point where internal work becomes counterproductive. Recognizing that limit is part of using the system correctly, not a concession to it.
+Some conditions break the design. They are worth naming.
 
----
-
-**Conditions that require stopping**
-
-Active suicidal ideation is not a condition under which internal work continues. Not reduced internal work, not more careful internal work, stopped. The activation that sessions produce in a system that is already at that level of distress is not useful. It adds load to a system that is already beyond its capacity. Crisis support comes first. The practice will be available when the conditions for using it are present. They are not present now.
-
-Psychotic episodes, active hallucinations, significant breaks from reality, states where the boundary between the internal space and external reality is unclear, require psychiatric evaluation before any internal work continues. The internal environment this system works with is distinct from psychotic experience, but the distinction requires clinical assessment to navigate safely. If you are uncertain whether what you are experiencing falls into this category, that uncertainty is itself a reason to stop and seek professional consultation. The uncertainty is the signal.
-
-Significant dissociative escalation, switching that is more frequent or more disruptive than your typical baseline, extended periods of depersonalization, amnesia that is outside your normal range, identity confusion that is more severe than usual, indicates that the system as a whole is under more stress than sessions should be adding to. This is particularly relevant for people with DID or OSDD. The Part 3 chapters describe working within a dissociative system during ordinary periods. They do not describe working within a dissociative system that is actively destabilizing. The latter requires stabilization before internal work resumes.
-
-Active substance use that is significantly affecting your capacity for stable observation makes sessions unreliable and potentially counterproductive. The system depends on your ability to hold a position and observe without being pulled in. Substances that alter that capacity alter the fundamental operating condition of the practice.
-
-Extended periods of acute external crisis, situations where your daily life is genuinely unstable, where basic functioning is compromised, where the external environment is demanding full resources, are not conditions under which depth internal work produces useful results. Stabilization practices (grounding, routine, external support) are appropriate. Sessions aimed at deeper access are not.
-
-The practical rule across all of these: if your baseline stability outside of sessions is significantly compromised, stop internal work sessions. Get stabilized through whatever means are available, professional support, crisis resources, changes in external circumstances. The practice will still be here.
+The system operates inside a stable range. When the baseline drops far enough, that range collapses, and internal work stops being useful. Recognizing the collapse is part of running the system correctly, not a failure of it.
 
 ---
 
-**Using this alongside therapy**
+**When to stop**
 
-This practice and therapy are not competing. They operate at different levels through different mechanisms and can run simultaneously without interfering, provided the distinction between them is maintained clearly.
+Active suicidal ideation. Stop. Not reduced sessions, not careful sessions, stopped. Sessions add load to a system already past capacity. Crisis support first. The practice will be here when conditions return.
 
-Therapy, particularly approaches like IFS, somatic work, EMDR, or psychodynamic work, typically involves a relational container. The therapeutic relationship itself is part of the mechanism. A trained professional tracks your state in real time, adjusts pacing based on what they observe, and provides a quality of co-regulation that makes contact with highly charged material possible for people who cannot yet access that stability independently. That is something this practice does not provide and does not attempt to.
+Psychotic episodes, active hallucinations, breaks from reality, states where the line between the internal space and the room you are standing in is unclear. Stop and get evaluated. The internal environment this system uses is not the same thing as psychotic experience, but distinguishing them needs clinical eyes. If you are uncertain, the uncertainty is the signal.
 
-What this practice provides is between-session access. The stability built through consistent practice, the familiarity with specific signals, the developed capacity to hold a position without being pulled in, the lowered resistance to approaching presences, directly support in-session therapeutic work. You arrive at sessions with more access, more vocabulary for what is present, and more baseline stability than you would have without the practice. The therapy becomes more efficient without changing what the therapy is.
+Significant dissociative escalation. Switching more frequent or more disruptive than your baseline. Depersonalization that runs long. Amnesia outside your normal range. Identity confusion that exceeds what you are used to. Stop. The [[ch08-when-the-system-is-fragmented]] chapters describe working within a dissociative system during ordinary periods. They do not describe working within one that is currently destabilizing. The latter needs stabilization before sessions resume.
 
-The one area where coordination matters: if your therapist uses IFS or a parts-based approach, tell them. Not because there is a conflict, but because the terminology overlaps. What your therapist calls a part, this system calls a presence. What your therapist calls a protector activation, this system calls a signal pointing to a presence. The underlying territory is the same. Using different vocabularies for the same territory creates confusion about what is being worked with. Consistent language prevents that without requiring your therapist to adopt this framework.
+Active substance use that is affecting your capacity to observe. Sessions depend on holding a position without being pulled in. Anything that alters that capacity alters the operating condition of the practice.
 
-If your therapist does not use IFS or parts-based work, this practice can run in parallel without coordination. You are building access and familiarity between sessions. What you bring to therapy will be richer for it, whether or not your therapist knows where it came from.
+Acute external crisis. Daily life unstable. Basic functioning compromised. External demand consuming full resources. Depth work does not produce useful results here. Grounding, routine, external support are appropriate. Sessions are not.
+
+The rule across all of it: if baseline stability outside of sessions is compromised, stop the sessions. Stabilize through whatever is available, professional support, crisis lines, changes in circumstance. The practice will still be here.
 
 ---
 
-**Bringing practice material into therapy**
+**Running this alongside therapy**
 
-There will be moments when something that surfaces in practice sessions feels significant enough to bring to therapy, a presence that produces unusually strong avoidance, a signal whose function became suddenly clear, a shift in the space that seems connected to something your therapy has been working around.
+The practice and therapy are not competing. They operate at different levels and can run together without interference, if the line between them stays clear.
 
-How to bring it in without creating confusion: describe what you observed, not what you concluded. Your therapist is equipped to work with observations. They may not be equipped to work with a framework they do not know. *I noticed that when certain things happen, something in me shuts down quickly and I can't access what I was feeling* is an observation. *My protector presence is blocking access to an exile* is a framework conclusion that requires your therapist to either adopt your framework or work around it. The observation is more useful in any therapeutic context.
+Therapy carries a relational container. The therapist tracks state in real time, adjusts pacing, provides co-regulation that makes contact with charged material possible for people who cannot yet hold that stability alone. This practice does not do that and is not trying to.
 
-The same principle that governs practice sessions governs bringing material to therapy: observation before interpretation. What did you notice? What changed? What produced a signal you recognized? Those questions generate material that a therapist can work with regardless of their orientation.
+What this practice provides is access between sessions. Familiarity with specific signals. The trained capacity to hold a position without being pulled in. Lower resistance around presences that have been worked with. You arrive at therapy with more vocabulary, more access, and more baseline than you would have without it. The therapy gets more efficient. The therapy is still the therapy.
 
-One specific situation worth naming: if practice sessions surface material that feels acutely distressing, intense activation that does not resolve on its own, imagery that feels threatening or destabilizing, signals significantly more intense than your usual range, bring that to your therapist before continuing work in that area. The stability principles in this system are designed to prevent this. They are not foolproof. A trained professional can assess whether what you have encountered requires more support than independent practice can provide.
+One area of coordination: if your therapist uses IFS or parts-based work, tell them. The vocabularies overlap. What your therapist calls a part, this system calls a presence. What your therapist calls a protector activation, this system calls a signal pointing to a presence. Same territory. Different words. Consistent language prevents confusion without requiring your therapist to adopt anything new.
+
+If your therapist does not use parts-based work, this practice can run in parallel without coordination. What you bring will be richer for it whether or not they know where it came from.
+
+---
+
+**Bringing material into therapy**
+
+Things will surface in sessions that feel worth bringing into therapy. A presence that produces unusually strong avoidance. A signal whose function suddenly clarified. A shift in the space that connects to something the therapy has been circling.
+
+The rule: describe what you observed, not what you concluded.
+
+*I noticed that when certain things happen, something in me shuts down quickly and I cannot reach what I was feeling* is an observation. Your therapist can work with it regardless of orientation.
+
+*My protector presence is blocking access to an exile* is a framework conclusion. It requires your therapist to either adopt the framework or work around it. The observation is more useful in any room.
+
+Observation before interpretation. What did you notice. What changed. What produced a signal you recognized. Those questions generate material a therapist can use.
+
+One specific case worth naming. If sessions surface material that does not resolve on its own, intense activation that lingers, imagery that feels threatening, signals significantly past your usual range, bring it to your therapist before continuing in that area. The stability principles are designed to prevent this. They are not foolproof. A trained professional can read whether what you have hit requires more than independent practice can hold.
 
 ---
 
 **When therapy is not available**
 
-This practice was developed in part because therapy is not always available, because of cost, geography, availability, or the limits of what therapy alone can reach between sessions. For people in that situation, this practice is designed to be sufficient for the work it describes. It is not a replacement for therapy when therapy is what is needed. It is an independent practice that can do what it does whether or not therapy is running alongside it.
+This practice exists partly because therapy is not always available. Cost. Geography. Waitlists. The limits of what therapy alone reaches between sessions. For people in that situation, the practice is built to be sufficient for what it does.
 
-If the conditions in the first section of this chapter are present, active crisis, acute instability, significant dissociative escalation, and therapy is not available, the priority is stabilization through whatever means are accessible: crisis lines, community support, grounding practices, external structure. Not this practice. The practice requires a minimum of stability to function. Building that minimum is the work before the work.
+It is not a replacement for therapy when therapy is what is needed. It is an independent practice that runs whether or not therapy is running alongside it.
+
+If the conditions in the first section of this chapter are present and therapy is not available, the priority is stabilization through whatever is accessible. Crisis lines. Community support. Grounding practices. External structure. Not this practice. The practice needs a minimum of stability to function. Building that minimum is the work before the work.
 
 ---
 
 **The honest version**
 
-I have seven psychiatric medications, a DID diagnosis, Complex PTSD, and Bipolar 1 with psychotic features. I have been in acute crisis more than once. I have had periods where this practice had to stop entirely, where the system was too destabilized for internal work to do anything except make things worse, and where the right thing was medication adjustment, crisis support, and waiting until the baseline rebuilt.
+I have seven psychiatric medications. DID. Complex PTSD. Bipolar 1 with psychotic features. I have been in acute crisis more than once.
 
-Stopping is not failure. It is accurate reading of the conditions. The practice continues when the conditions for it are present. When they are not, recognizing that is the most useful thing you can do.
+There have been periods where this practice had to stop entirely. Where the system was too destabilized for internal work to do anything but make it worse. Where the right thing was medication adjustment, crisis support, and waiting until the baseline rebuilt.
+
+Stopping is not failure. It is an accurate reading of conditions.
+
+The practice continues when conditions allow it. When they do not, recognizing that is the most useful thing you can do.
 
 The system will be here when you come back.

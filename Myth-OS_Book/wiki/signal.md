@@ -1,16 +1,16 @@
 # Signal
 
-What shows up in real time. A reaction, an emotion, an impulse, a response that happens before it has been chosen.
+What shows up in real time. A reaction, an emotion, an impulse, a response that arrives before it is chosen.
 
-Signals are not [[presence|presences]]. They point toward presences, indicating that something is there. Addressing a signal without reaching the presence generating it produces temporary management at best. The source remains active.
+Signals are not [[presence|presences]]. They point toward presences, indicating something is there. Treating a signal without reaching the presence behind it produces management. The source stays active.
 
-You react to something before you have had time to form an opinion about it: the response arrives faster than the thought. That speed tells you the signal is not coming from your analysis. It is coming from somewhere else, something that already has a position on the situation, that has had a position on situations like it for a long time, that does not wait for your input before responding.
+You react before you have time to form an opinion. The response arrives faster than the thought. That speed tells you the signal is not coming from your analysis. Something else already has a position on the situation, has had a position on situations like it for a long time, and does not wait for your input.
 
-The conflicting pulls, wanting to move toward something while another part of you resists, feeling two incompatible things simultaneously without being confused, are not a sign of ambivalence or disorder. They are two distinct sources generating two distinct signals. Each one is pointing toward something separate.
+The conflicting pulls — wanting to move toward something while another part resists, feeling two incompatible things at once without confusion — are not ambivalence or disorder. They are two distinct sources generating two distinct signals. Each points at something separate.
 
-A [[repeated-signal]] is one that has appeared often enough across different situations, with consistent enough character, to be recognized as the same source activating. Repeated signals are the primary unit of recognition in the practice.
+A [[repeated-signal]] is one that has appeared often enough across situations, with consistent enough character, to read as the same source firing each time. Repeated signals are the primary unit of recognition in the practice.
 
-The [[function]] of a signal is what it does, the outcome it produces when it activates, as distinct from why it exists or what it means. Tracking function is more useful than tracking cause.
+[[function|Function]] is what the signal does, the outcome it produces when it activates. Distinct from why it exists or what it means. Tracking function is more useful than tracking cause.
 
 ## Related
 
@@ -18,8 +18,8 @@ The [[function]] of a signal is what it does, the outcome it produces when it ac
 - [[repeated-signal]]
 - [[function]]
 - [[somatic-channel]]
-- [[notice-step-back-adjust]] — the real-time loop for working with active signals
+- [[notice-step-back-adjust]] — the real-time loop
 
 ## Where in the book
 
-Chapter 5 (What's In There and How to Be Near It) introduces the signal/presence distinction. Chapter 6 covers what repeated signals indicate. Chapter 12 covers real-time use.
+Chapter 5 introduces the signal/presence distinction. Chapter 6 covers what repeated signals indicate. Chapter 12 covers real-time use.

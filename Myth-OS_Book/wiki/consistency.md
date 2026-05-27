@@ -2,11 +2,11 @@
 
 The mechanism by which temporary states become [[baseline]] behavior.
 
-The system adapts to what you return to repeatedly. Repeated short sessions under stable conditions, individually unremarkable, register in a system that experienced the same stable interaction yesterday, and the day before. That repetition changes what the system treats as normal. Resistance to the interaction decreases, not because anyone pushed through resistance, but because the repetition made the interaction familiar.
+The system adapts to what you return to. Repeated short sessions under stable conditions, individually unremarkable, register as a system that experienced the same stable interaction yesterday, and the day before. That repetition changes what the system treats as normal. Resistance decreases, not because anyone pushed through it, but because the repetition made the interaction familiar.
 
-This is why a session that produces nothing visible still counts. If you returned to [[the-space]], held your position, and exited cleanly without anything clear appearing, the system registered a stable non-threatening interaction. That registration compounds. Five sessions where nothing much happened are more useful than one session where something dramatic did, if the five were consistent and the one was not repeated.
+A session that produced nothing visible still counts. If you returned to [[the-space]], held position, and exited cleanly, the system registered a stable non-threatening interaction. That registration compounds. Five sessions where nothing much happened beat one session where something dramatic did, if the five were consistent and the one was not repeated.
 
-Sessions should be short enough to repeat easily. Friction is what breaks consistency. A session that costs little to do is a session that gets done the next day. Intensity is not a measure of depth. It is a measure of pressure, and pressure is what the practice manages against.
+Sessions should be short enough to repeat easily. Friction is what breaks consistency. A session that costs little to do is one you do again tomorrow. Intensity is not depth. It is pressure, and pressure is what the practice manages against.
 
 ## Related
 
